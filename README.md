@@ -1,8 +1,12 @@
 # FRED-Lite Network for 5G-LTE Spectrogram-based Spectrum Sensing
 
+![Illustration of a 5G-LTE network with DL-based spectrum sensing.](framework.png)
+
 Spectrum sensing is a key component in cognitive radio networks, responsible for detecting available spectrum bands and facilitating efficient, adaptive spectrum management in increasingly dense and dynamic wireless communication environments. However, existing segmentation models often prioritize accuracy at the expense of computational efficiency, resulting in complex architectures with extensive connections and heavy reliance on convolutional layers. Such complexity hinders their applicability in real-time scenarios and resource-constrained embedded systems. 
 
 To overcome these limitations, we introduce FRED-Lite (Full-Resolution Encoder-Decoder Lite) network, a lightweight yet effective deep learning architecture specifically tailored for semantic segmentation of 5G and LTE signals in spectrograms generated via short-time Fourier transforms, capturing both temporal and spectral features with high fidelity.
+
+![FRED-Lite network architecture.](architecture.png)
 
 FRED-Lite integrates a full-resolution encoder structure, a boundary refinement mechanism within the decoder, and a grouped multi-kernel input extractor module. This architectural design enables efficient spectral feature extraction by jointly learning local and global representations, thereby improving segmentation accuracy and ensuring robust performance across a wide range of spectrogram conditions and signal environments.
 
