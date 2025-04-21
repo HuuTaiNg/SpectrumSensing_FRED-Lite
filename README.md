@@ -10,6 +10,6 @@ The Python code and dataset provided here are part of the accepted paper in the 
 
 Huu-Tai Nguyen, Gia-Phat Hoang, Hai-Trang Phuoc Dang, and Thien Huynh-The, "A Lightweight Full-Resolution Encoder-Decoder Network for 5G-LTE Spectrogram-based Spectrum Sensing," in Proc. ICCIES, Jul. 2025.
 
-The dataset can be downloaded from [Kaggle]([https://www.kaggle.com/datasets/huutai23012003/spectrum-sesing-dataset/data](https://www.kaggle.com/datasets/huutai23012003/c02-dataset/settings)). Please report if it is not available.
+The dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/huutai23012003/c02-dataset/settings). Please report if it is not available.
 
 If there are any errors or topics that need to be discussed, please contact [Huu-Tai Nguyen](https://github.com/HuuTaiNg) via email at n.huutai231@gmail.com.
