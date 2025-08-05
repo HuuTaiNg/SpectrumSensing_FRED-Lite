@@ -12,7 +12,7 @@ FRED-Lite integrates a full-resolution encoder structure, a boundary refinement 
 
 The Python code and dataset provided here are part of the accepted paper in the First International Conference On Computational Intelligence In Engineering Science (ICCIES), Ho Chi Minh City, Vietnam, July 2025.
 
-Huu-Tai Nguyen, Gia-Phat Hoang, Hai-Trang Phuoc Dang, and Thien Huynh-The, "A Lightweight Full-Resolution Encoder-Decoder Network for 5G-LTE Spectrogram-based Spectrum Sensing," in Proc. ICCIES, Jul. 2025.
+Huu-Tai Nguyen, Gia-Phat Hoang, Hai-Trang Phuoc Dang, and Thien Huynh-The, "A Lightweight Full-Resolution Encoder-Decoder Network for 5G-LTE Spectrogram-based Spectrum Sensing," in Proc. ICCIES, Jul. 2025. [[Link](https://link.springer.com/chapter/10.1007/978-3-031-98161-6_30)]
 
 The dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/huutai23012003/c02-dataset/settings). Please report if it is not available.
 
