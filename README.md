@@ -10,7 +10,7 @@ To overcome these limitations, we introduce FRED-Lite (Full-Resolution Encoder-D
 
 FRED-Lite integrates a full-resolution encoder structure, a boundary refinement mechanism within the decoder, and a grouped multi-kernel input extractor module. This architectural design enables efficient spectral feature extraction by jointly learning local and global representations, thereby improving segmentation accuracy and ensuring robust performance across a wide range of spectrogram conditions and signal environments.
 
-The Python code and dataset provided here are part of the accepted paper in the First International Conference On Computational Intelligence In Engineering Science (ICCIES), Ho Chi Minh City, Vietnam, July 2025.
+The Python code and dataset provided here are part of the paper in the First International Conference On Computational Intelligence In Engineering Science (ICCIES), Ho Chi Minh City, Vietnam, July 2025.
 
 Huu-Tai Nguyen, Gia-Phat Hoang, Hai-Trang Phuoc Dang, and Thien Huynh-The, "A Lightweight Full-Resolution Encoder-Decoder Network for 5G-LTE Spectrogram-based Spectrum Sensing," in Proc. ICCIES, Jul. 2025. [[Link](https://link.springer.com/chapter/10.1007/978-3-031-98161-6_30)]
 
